@@ -23,17 +23,39 @@ Contributions are welcome! Please feel free to submit a PR to add new resources.
 ## 02. Academic Papers
 
 - **Surveys / Reviews** 
-  - To be added
+  - **[CSUR 2025]** Alert Fatigue in Security Operations Centres: Research Challenges and Opportunities [[Link]](https://dl.acm.org/doi/full/10.1145/3723158)
+  - **[CSUR 2024]** Alert Prioritisation in Security Operations Centres: A Systematic Survey on Criteria and Methods [[Link]](https://dl.acm.org/doi/10.1145/3695462)
+  - **[TOIT 2024]** Towards Human-AI Teaming to Mitigate Alert Fatigue in Security Operations Centres [[Link]](https://dl.acm.org/doi/10.1145/3670009)
+
+
 
 
 - **Evaluation & Empirical Studies**
   - **[Usenix Security 2025]** True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center [[Link]](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-limin)
   - **[arXiv 2026]** Before You Hand Over the Wheel: Evaluating LLMs for Security Incident Analysis [[Link]](https://arxiv.org/abs/2603.06422)
   - **[CoNEXT 2024]** A Systematic Comparison of Large Language Models Performance for Intrusion Detection [[Link]](https://dl.acm.org/doi/abs/10.1145/3696379)
+  - **[AsiaCCS 2022]** Ruling the Rules: Quantifying the Evolution of Rulesets, Alerts and Incidents in Network Intrusion Detection [[Link]](https://dl.acm.org/doi/abs/10.1145/3488932.3517412)
+  - **[CCS 2019]** Matched and Mismatched SOCs: A Qualitative Study on Security Operations Center Issues [[Link]](https://dl.acm.org/doi/10.1145/3319535.3354239)
+  - **[Usenix Security 2022]** 99% False Positives: A Qualitative Study of SOC Analysts' Perspectives on Security Alarms [[Link]](https://www.usenix.org/conference/usenixsecurity22/presentation/alahmadi)
+  - **[Usenix Security 2024]** True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center [[Link]](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-limin)
+
+
+
+
+
 
 
 - **Conventional Machine Learning & Deep Learning**
-  - To be added
+  - **[ICONIP]** Combating Threat-Alert Fatigue with Online Anomaly Detection Using Isolation Forest [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-36708-4_62)
+  - **[ACSAC 2018]** MADE: Security Analytics for Enterprise Threat Detection [[Link]](https://dl.acm.org/doi/10.1145/3274694.3274710)
+  - **[Computers & Security 2024]** Combating alert fatigue with AlertPro: Context-aware alert prioritization using reinforcement learning for multi-step attack detection [[Link]](https://www.sciencedirect.com/science/article/pii/S0167404823004935)
+  - **[CSET 2021]** Combat Security Alert Fatigue with AI-Assisted Techniques [[Link]](https://dl.acm.org/doi/10.1145/3474718.3474723)
+  - **[ACSAC 2013]** Beehive: large-scale log analysis for detecting suspicious activity in enterprise networks [[Link]](https://dl.acm.org/doi/10.1145/2523649.2523670)
+  - **[TSE 2025]** A Context-Aware Clustering Approach for Assisting Operators in Classifying Security Alerts [[Link]](https://ieeexplore.ieee.org/document/10752431)
+  - **[EuroS&P 2022]** SIERRA: Ranking Anomalous Activities in Enterprise Networks [[Link]](https://ieeexplore.ieee.org/document/9797374)
+  - **[S&P 2022]** DEEPCASE: Semi-Supervised Contextual Analysis of Security Events [[Link]](https://ieeexplore.ieee.org/document/9833671)
+
+
 
 
 
