@@ -26,6 +26,7 @@ Contributions are welcome! Please feel free to submit a PR to add new resources.
   - **[CSUR 2025]** Alert Fatigue in Security Operations Centres: Research Challenges and Opportunities [[Link]](https://dl.acm.org/doi/full/10.1145/3723158)
   - **[CSUR 2024]** Alert Prioritisation in Security Operations Centres: A Systematic Survey on Criteria and Methods [[Link]](https://dl.acm.org/doi/10.1145/3695462)
   - **[TOIT 2024]** Towards Human-AI Teaming to Mitigate Alert Fatigue in Security Operations Centres [[Link]](https://dl.acm.org/doi/10.1145/3670009)
+  - **[arXiv 2025]** Large Language Models for Security Operations Centers: A Comprehensive Survey [[Link]](https://arxiv.org/abs/2509.10858)
 
 
 
@@ -38,6 +39,9 @@ Contributions are welcome! Please feel free to submit a PR to add new resources.
   - **[CCS 2019]** Matched and Mismatched SOCs: A Qualitative Study on Security Operations Center Issues [[Link]](https://dl.acm.org/doi/10.1145/3319535.3354239)
   - **[Usenix Security 2022]** 99% False Positives: A Qualitative Study of SOC Analysts' Perspectives on Security Alarms [[Link]](https://www.usenix.org/conference/usenixsecurity22/presentation/alahmadi)
   - **[Usenix Security 2024]** True Attacks, Attack Attempts, or Benign Triggers? An Empirical Measurement of Network Alerts in a Security Operations Center [[Link]](https://www.usenix.org/conference/usenixsecurity24/presentation/yang-limin)
+  - **[arXiv 2025]** LLMs in the SOC: An Empirical Study of Human-AI Collaboration in Security Operations Centres [[Link]](https://arxiv.org/abs/2508.18947)
+
+  
 
 
 
@@ -46,7 +50,7 @@ Contributions are welcome! Please feel free to submit a PR to add new resources.
 
 
 - **Conventional Machine Learning & Deep Learning**
-  - **[ICONIP]** Combating Threat-Alert Fatigue with Online Anomaly Detection Using Isolation Forest [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-36708-4_62)
+  - **[ICONIP 2019]** Combating Threat-Alert Fatigue with Online Anomaly Detection Using Isolation Forest [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-36708-4_62)
   - **[ACSAC 2018]** MADE: Security Analytics for Enterprise Threat Detection [[Link]](https://dl.acm.org/doi/10.1145/3274694.3274710)
   - **[Computers & Security 2024]** Combating alert fatigue with AlertPro: Context-aware alert prioritization using reinforcement learning for multi-step attack detection [[Link]](https://www.sciencedirect.com/science/article/pii/S0167404823004935)
   - **[CSET 2021]** Combat Security Alert Fatigue with AI-Assisted Techniques [[Link]](https://dl.acm.org/doi/10.1145/3474718.3474723)
@@ -63,6 +67,8 @@ Contributions are welcome! Please feel free to submit a PR to add new resources.
   - **[NDSS 2026]** Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination [[Link]](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination)
   - **[arXiv 2025]** IRCopilot: Automated Incident Response with Large Language Models [[Link]](https://arxiv.org/abs/2505.20945)
   - **[arXiv 2025]** An Automated Attack Investigation Approach Leveraging Threat-Knowledge-Augmented Large Language Models [[Link]](https://arxiv.org/abs/2509.01271)
+  - **[arXiv 2026]** Retrieval-Augmented LLMs for Security Incident Analysis [[Link]](https://arxiv.org/abs/2603.18196)
+
 
 
 
@@ -78,6 +84,10 @@ Contributions are welcome! Please feel free to submit a PR to add new resources.
 - **[Github]** Agentic SOC Platform [[Link]](https://github.com/FunnyWolf/agentic-soc-platform)
 - **[Github]** DeepSOC [[Link]](https://github.com/flagify-com/deepsoc)
 - **[Github]** Agentic SOC Parallel Simulation [[Link]](https://github.com/SafelineMan/Agentic-SOC-Simulation)
+- **[Github]** AI-Augmented Security Operations Center (AI-SOC) [[Link]](https://github.com/zhadyz/AI_SOC)
+- **[Github]** SOC Analyst Level 1 Replacement using a RAG LLM [[Link]](https://github.com/clab60917/RAG-LLM-SOC_analyst)
+- **[Github]** FlipLogGPT [[Link]](https://github.com/adarshpalaskar1/FlipLogGPT_LLM)
+
 
 
 ## 04. Knowledge Base
