@@ -64,6 +64,8 @@ Contributions are welcome! Please feel free to submit a PR to add new resources.
 
 
 - **LLM-based Approaches**
+  - **[Zenodo preprint 2026]** DAI: A Domain-Specific LLM with Model-Excluded Authority, Capability-Disjoint Verification, and Recomputable Receipts [[Link]](https://doi.org/10.5281/zenodo.23089652)
+  - **[Zenodo preprint 2026]** Autonomous Defensive AI: An Envelope-and-Evidence Framework for Governed LLMs Acting on Production Infrastructure [[Link]](https://doi.org/10.5281/zenodo.23089594)
   - **[NDSS 2026]** Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination [[Link]](https://www.ndss-symposium.org/ndss-paper/incident-response-planning-using-a-lightweight-large-language-model-with-reduced-hallucination)
   - **[arXiv 2025]** IRCopilot: Automated Incident Response with Large Language Models [[Link]](https://arxiv.org/abs/2505.20945)
   - **[arXiv 2025]** An Automated Attack Investigation Approach Leveraging Threat-Knowledge-Augmented Large Language Models [[Link]](https://arxiv.org/abs/2509.01271)
